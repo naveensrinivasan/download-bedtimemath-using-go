@@ -19,4 +19,6 @@ It depends on **github.com/moovweb/gokogiri** for xpath.
 
 All of these happens concurrently using ***channels***.    
 
+Here is the first 100 posts pdf. [https://github.com/naveensrinivasan/download-bedtimemath-using-go/blob/master/bedtimemath.pdf](https://github.com/naveensrinivasan/download-bedtimemath-using-go/blob/master/bedtimemath.pdf "100 Post Pdf"
+
 
